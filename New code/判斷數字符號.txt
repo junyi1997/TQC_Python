@@ -1,0 +1,8 @@
+str?才﹃ 
+str.isalnum() ┮Τ才常琌?┪ダ 
+str.isalpha() ┮Τ才常琌ダ 
+str.isdigit() ┮Τ才常琌? 
+str.islower() ┮Τ才常琌? 
+str.isupper() ┮Τ才常琌? 
+str.istitle() ┮Τ??常琌ダ?钩?? 
+str.isspace() ┮Τ才常琌フ才\t\n\r
