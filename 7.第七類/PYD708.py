@@ -1,5 +1,6 @@
 
 # -*- coding: utf-8 -*-
+#詞典合併
 a={}
 b={}
 print("Create dict1:")

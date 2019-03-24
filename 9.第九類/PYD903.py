@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#成績資料
+
 with open("data.txt","a",encoding="utf-8") as fd:
     fd.write("\n")
     for i in range(5):

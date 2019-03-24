@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#浮點數格式化輸出
 a=eval(input())
 b=eval(input())
 c=eval(input())

@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#圓形面積計算
 import math
 r=eval(input())
 Per=2*r*math.pi

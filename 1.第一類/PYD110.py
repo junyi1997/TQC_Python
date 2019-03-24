@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#正n邊形面積計算
+
 import math
 c=eval(input())
 a=int(input())

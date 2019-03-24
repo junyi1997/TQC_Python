@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#整數格式化輸出
+
 a=int(input())
 b=int(input())
 c=int(input())

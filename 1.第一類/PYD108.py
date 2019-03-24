@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#座標距離計算
 a=eval(input())
 b=eval(input())
 c=eval(input())

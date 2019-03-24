@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#等級判斷
+
 a=int(input())
 if a>=80 and a<=100:
     print("A")    

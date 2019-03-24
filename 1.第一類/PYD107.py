@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#數值計算
 a=eval(input())
 b=eval(input())
 c=eval(input())

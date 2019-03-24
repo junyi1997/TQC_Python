@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#矩形面積計算
 a=eval(input())
 b=eval(input())
 c=a*2+b*2

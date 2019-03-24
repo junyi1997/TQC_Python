@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#折扣方案
+
 a=int(input())
 if a>=8000:
     b=a*0.95  

@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#倍數判斷
+
 a=int(input())
 if a%3==0:
     if a%5==0:

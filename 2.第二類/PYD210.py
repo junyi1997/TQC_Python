@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#三角形判斷
+
 a=eval(input())
 b=eval(input())
 c=eval(input())

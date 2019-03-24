@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#距離判斷
+
 x1=eval(input())
 y1=eval(input())
 x2=5

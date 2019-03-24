@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#字串格式化輸出
 a=input()
 b=input()
 c=input()

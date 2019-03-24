@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#字元判斷
+
 a=input()
 if a.isalpha():
     print(a,"is an alphabet.")
